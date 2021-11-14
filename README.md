@@ -48,7 +48,7 @@ As for annual revenue, acknowlding that their founding team started with 19.5M r
 
 The falling website traffic supports this theory.
 
-   ![Traffic](Traffic.png)
+   ![Traffic](https://i.imgur.com/9H5unPj.png)
 
 In comparison, WealthSimple (2014) has over 900 employees, offices in Toronto, New York, and London, has over [15B in assets under management](https://www.wealthsimple.com/en-ca/about/who-we-are/)<sup>[7](#myfootnote1)</sup>, and 1.5M users.
 
